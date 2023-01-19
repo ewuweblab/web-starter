@@ -1,2 +1,10 @@
 # Web Design 2 Starter
-Starter (boilerplate) for all future projects. Don't with blank files. 
+
+> Computers are dumb. Humans make them smart.
+
+Starter (boilerplate) for all future projects.
+
+## Why Does This Exist?
+* Don't with blank files
+* Common boilerplate for web projects
+* I am a human being who makes mistakes
