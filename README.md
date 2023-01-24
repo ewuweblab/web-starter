@@ -1,5 +1,7 @@
 # Web Design 2 Starter
 
+<img src="web2.webp" />
+
 > Computers are dumb. Humans make them smart.
 
 Starter (boilerplate) for all future projects.
