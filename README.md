@@ -1,6 +1,7 @@
 # Web Design 2 Starter
 
-<img src="web2.webp" />
+<!-- <img src="web2.webp" /> -->
+![Web 2 Starter](web2.webp)
 
 > Computers are dumb. Humans make them smart.
 
